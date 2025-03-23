@@ -1,0 +1,1 @@
+/Users/vonjyralijaona/AndroidStudioProjects/todo_list_firebase/build/app/intermediates/cxx/Debug/1q1v5i1b/obj/arm64-v8a
